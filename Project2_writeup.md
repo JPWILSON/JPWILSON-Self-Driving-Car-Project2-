@@ -20,7 +20,7 @@ In addition, a random sign is plotted, as well as its label, just to make sure t
 ### 1. Image processing
 A grayscale method is included, but, as I have a high enough accuracy, I will not grayscale the pictures. 
 May do this at a later stage, but conceptually, it doesn't really make sense to me on a fundamental level. I understand that the grayscale allows for a 
-clearer highlighting of edges (and also that it increases the performance (and is even recommended and used Sermanet & LeCun's paper on traffic signsin http://yann.lecun.com/exdb/publis/pdf/sermanet-ijcnn-11.pdf)). It just seems incorrect that traffic signs (that make use of color for conveying meaning (otherwise they would all be blue&white/ red& white, etc) should be reduced to grayscale.)
+clearer highlighting of edges (and also that it increases the performance (and is even recommended and used Sermanet & LeCun's [paper](http://yann.lecun.com/exdb/publis/pdf/sermanet-ijcnn-11.pdf) on traffic sign classification). It just seems incorrect that traffic signs (that make use of color for conveying meaning (otherwise they would all be blue&white/ red& white, etc) should be reduced to grayscale.)
 I think the computer can also gain meaning from the color, in the same way humans do, even if not in this particular example. 
 
 ### 2. Training, Validation and Testing 
