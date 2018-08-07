@@ -2,6 +2,7 @@
 ### 1. Abstract
 The following document describes the LeNet-5 classifier I implemented for German Traffic sign classification.
 [This](https://github.com/JPWILSON/JPWILSON-Self-Driving-Car-Project2-/blob/master/Traffic_Sign_Classifier.ipynb) is a link to my notebook.
+To follow along, go through this document with the notebook open in a another page, where the notebook can be edited and run, and the pipeline developed. 
 
 ### 2. Input Data Description
 * My training set has 26 099 images
